@@ -1,0 +1,15 @@
+Mahasiswa Sistem Informasi di Universitas Katolik Soegijapranata Semarang.
+
+Nama                : Albertus Christ Dwi Kurniawan
+NIM                 : 20.N1.0004
+Tanggal lahir       : 15 Agustus 2002
+Tempat lahir        : semarang
+Alamat              : Perumahan Grand Armina Blok H no. 2
+Pendidikan terakhir : SMKN 4 Banjarmasin
+Email               : albertscdk@gmail.com
+Hobi                : membaca, traveling
+Skill               : Ms. office, team work, time management
+Kegiatan yang pernah diikuti :
+  - PTMB
+  - Character Building Camp
+  - Latihan Kepemimpinan Tingkat Dasar
